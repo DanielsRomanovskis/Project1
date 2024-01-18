@@ -10,3 +10,5 @@ pip install beautifulsoup4
 pip install openpyxl
 pip install selenium
 2. Palaidiet programmu, lai iegūtu sporta rezultātus un automātiski izveidotu Excel failu ar iegūto informāciju.
+
+Links uz video -> https://youtu.be/qVA9pm4cRiU

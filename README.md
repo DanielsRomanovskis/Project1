@@ -2,7 +2,7 @@ Es esmu liels Amerikāņu hokeja fans, taču, laika joslu atšķirības dēļ ma
 un saglabā šo spēļu rezultātus. Mana programma izmanto BeautifulSoup, tas man atļauj izpētīt un iegūt aktuālo spēļu informāciju.
 Selenium tiek izmantots, lai automatizētu tīmekļa vietni, piemēram, noklikšķinātu uz pogām, meklētu datus un tā tālāk.
 Openpyxl bibliotēka sniedz iespēju šos datus saglabāk Excel failā.
-Programma ne tikai ļauj man ietaupīt laiku, bet arī sniedz iespēju sekot līddzi komandu statistikai, palīdzot man labāk izprast spēļu gaitu.
+Programma ne tikai ļauj man ietaupīt laiku, bet arī sniedz iespēju sekot līdzi komandu statistikai, palīdzot man labāk izprast spēļu gaitu.
 Šī vienkāršā, taču, efektīvā programma ir domāta hokeja faniem, kuri vēlas vieglu veidu kā izsekot rezultātiem apejot laika joslu sagādātās grūtības.
 Programmas izmantošana.
 1. instalējiet nepieciešamās bilbiotēkas
